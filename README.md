@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Welcome%20to%20My%20GitHub%20Profile!&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Welcome%20to%20My%20GitHub%20Profile!&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
 ---
