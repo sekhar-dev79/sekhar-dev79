@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Qt+%7C+C%2B%2B+Engineer;MERN+Stack+%7C+Java+Backend+%7C+REST+APIs;Crafting+Clean+UI+%7C+Fast+%26+Scalable+Apps" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Welcome%20to%20My%20GitHub%20Profile!&fontAlign=50&fontAlignY=40&color=gradient" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
