@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Qt+%7C+C%2B%2B+Engineer;MERN+Stack+%7C+Java+Backend+%7C+REST+APIs;Crafting+Clean+UI+%7C+Fast+%26+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=635&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Qt+%7C+C%2B%2B+Engineer;MERN+Stack+%7C+Java+Backend+%7C+REST+APIs;Crafting+Clean+UI+%7C+Fast+%26+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 ---
