@@ -1,4 +1,4 @@
-<h1 align="center">Chandra Sekhar</h1>
+<h1 align="center">Hi 👋, I'm Chandra Sekhar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=4AE4F9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Qt+%7C+C%2B%2B+Engineer;MERN+Stack+Specialist;Clean+UI+%7C+Scalable+Apps+%7C+Fast+Delivery" alt="Typing SVG" />
 </p>
@@ -71,7 +71,7 @@ Modern developer portfolio featuring project sections, animation, resume downloa
 <p align="center">
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=github" /></a>
-  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x" /></a>
+  <a href="https://x.com/chase2k25"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x" /></a>
 </p>
 
 ---
