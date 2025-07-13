@@ -11,7 +11,7 @@
 🔹 Strong foundation in **Java, Spring Boot**, and REST APIs (Java Full Stack)  
 🔹 Built production-grade applications using **MERN Stack**, **React**, and **Next.js**  
 🔹 Currently engineering **cross-platform desktop apps** using **C++ & Qt**  
-🔹 UI perfectionist — passionate about scalable frontends using **Tailwind**, **MUI**, **ShadCN**  
+🔹 UI perfectionist — passionate about scalable frontends using **Tailwind**, **MUI**, **ShadCN**, **Bootstrap**  
 🔹 Eager to explore system design, performance tuning, and developer tooling
 
 ---
@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,mongodb,mysql,qt,cpp,html,css,sass,tailwind,js,ts,git,github,mui,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,mongodb,mysql,qt,cpp,html,css,sass,tailwind,bootstrap,js,ts,git,github,mui,vscode,figma" />
 </p>
 
 ---
